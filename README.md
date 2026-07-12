@@ -35,4 +35,4 @@ Supabase → Claude API inference → Next.js dashboard
 
 ## Wiring Schematic
 
-![Wiring Schematic](SchematicIoT.png)
+![Wiring Schematic](docs/SchematicIoT.png)
