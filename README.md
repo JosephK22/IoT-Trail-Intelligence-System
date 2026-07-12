@@ -33,3 +33,6 @@ adafruit-circuitpython-dht
 Sensor collection → local SD card logging → WiFi auto-sync → 
 Supabase → Claude API inference → Next.js dashboard
 
+## Wiring Schematic
+
+![Wiring Schematic](SchematicIoT.png)
